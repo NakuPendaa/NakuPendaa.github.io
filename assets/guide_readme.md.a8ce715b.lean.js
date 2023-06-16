@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as i,O as t}from"./chunks/framework.3639b6a9.js";const u=JSON.parse('{"title":"关于我","description":"","frontmatter":{},"headers":[],"relativePath":"guide/readme.md","filePath":"guide/readme.md"}'),l={name:"guide/readme.md"},r=t("",12),o=[r];function s(n,c,d,h,p,_){return e(),i("div",null,o)}const g=a(l,[["render",s]]);export{u as __pageData,g as default};

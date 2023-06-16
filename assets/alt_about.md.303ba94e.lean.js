@@ -1,0 +1,1 @@
+import{_ as t,o as d,c as r,O as e}from"./chunks/framework.3639b6a9.js";const g=JSON.parse('{"title":"客户端与服务端通信","description":"","frontmatter":{},"headers":[],"relativePath":"alt/about.md","filePath":"alt/about.md"}'),a={name:"alt/about.md"},o=e("",4),l=[o];function n(s,i,h,c,_,m){return d(),r("div",null,l)}const p=t(a,[["render",n]]);export{g as __pageData,p as default};
